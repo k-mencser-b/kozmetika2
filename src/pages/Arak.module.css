@@ -1,0 +1,37 @@
+.arak {
+    display: block;
+    text-align: center;
+    padding: 5rem;
+    background: rgb(162,103,89);
+    background: linear-gradient(90deg, rgba(162,103,89,1) 0%, rgba(247,197,190,1) 50% , rgba(162,103,89,1) 100%);
+    color: #3e4b54;
+    }
+
+.card {
+    background-color: #3e4b54;
+    padding: 3rem;
+    border-radius: 5px;
+    box-shadow: 3px 3px 5px black;
+}
+.tabledoboz {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgba(247,197,190,1);
+    padding: 3rem;
+}
+
+.arak h1 {
+    color: rgba(247,197,190,1);
+    letter-spacing: 0.1rem;
+}
+
+td {
+    
+    text-align: start;
+    
+}
+table {
+    width: 100%;
+    
+}

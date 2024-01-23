@@ -1,0 +1,12 @@
+.elerhetoseg {
+    background: rgb(162,103,89);
+    background: linear-gradient(90deg, rgba(162,103,89,1) 0%, rgba(247,197,190,1) 50% , rgba(162,103,89,1) 100%);
+    color: #3e4b54;
+    text-align: center;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+}
+.elerhetoseg p {
+    margin-top: 0;
+    padding-bottom: 2rem;
+}

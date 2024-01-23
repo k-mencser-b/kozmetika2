@@ -1,0 +1,23 @@
+.rolam {
+    
+    text-align: center;
+    padding: 5rem;
+    background: rgb(162,103,89);
+    background: linear-gradient(90deg, rgba(162,103,89,1) 0%, rgba(247,197,190,1) 50% , rgba(162,103,89,1) 100%);
+    color: #3e4b54;
+}
+
+.rolam img {
+    width: 80%;
+    margin-top: 5rem;
+    border-radius: 5px;
+    box-shadow: 3px 3px 5px black;
+    
+}
+
+.rolam p {
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    text-align: justify;
+}

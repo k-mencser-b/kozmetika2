@@ -1,0 +1,70 @@
+.back {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70%;
+    height: 50vh;
+    background-color: beige;
+    color: gray;
+    border: 1px solid grey;
+    border-radius: 5px;
+    text-align: center;
+    margin: auto;
+    margin-top: 3rem;
+}
+
+.back2 {
+  display: none;
+}
+
+ 
+  .control {
+    margin: 1rem 0;
+    display: flex;
+    align-items: stretch;
+    flex-direction: column;
+    
+  }
+  
+  .control label,
+  .control input {
+    display: block;
+  }
+  
+  .control label {
+    font-weight: bold;
+    flex: 1;
+    color: #464646;
+    margin-bottom: 0.5rem;
+  }
+  
+  .control input {
+    flex: 3;
+    font: inherit;
+    padding: 0.35rem 0.35rem;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+  }
+  
+  .control input:focus {
+    outline: none;
+    border-color: #4f005f;
+    background: #f6dbfc;
+  }
+  
+  .control.invalid input {
+    border-color: red;
+    background: #fbdada;
+  }
+  
+  .actions {
+    text-align: center;
+  }
+  
+  @media (min-width: 768px) {
+    .control {
+      align-items: center;
+      flex-direction: row;
+    }
+  
+  }
