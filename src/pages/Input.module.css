@@ -1,0 +1,13 @@
+.inputs {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    border-bottom: 1px solid #5aace7;
+}
+
+.input {
+    margin: 2rem;
+    text-align: center;
+}
+label {
+    margin-right: 2rem;
+}

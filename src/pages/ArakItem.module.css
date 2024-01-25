@@ -1,0 +1,27 @@
+.lista {
+    list-style-type: none;
+}
+
+.listasor {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 10rem;
+    width: 80%;
+}
+
+.name {
+    display: flex;
+
+    
+}
+
+.price {
+    
+    display: flex;
+    justify-content: flex-end;
+}
+
+.name2 {
+    margin-left: 1rem;
+}
